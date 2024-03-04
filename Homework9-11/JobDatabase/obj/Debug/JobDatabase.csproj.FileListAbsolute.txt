@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\bin\Debug\JobDatabase.exe.config
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\bin\Debug\JobDatabase.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\bin\Debug\JobDatabase.pdb
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.frmJobDatabase.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.Properties.Resources.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\JobDatabase\obj\Debug\JobDatabase.pdb

@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.frmSuperHero.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SuperHero\obj\Debug\SuperHero.pdb

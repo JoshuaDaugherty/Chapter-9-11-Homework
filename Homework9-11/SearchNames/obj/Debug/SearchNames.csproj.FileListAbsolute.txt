@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\bin\Debug\SearchNames.exe.config
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\bin\Debug\SearchNames.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\bin\Debug\SearchNames.pdb
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.frmSearchNames.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.Properties.Resources.resources
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.exe
+C:\Users\janic\Downloads\chapter 9-11 homework\Homework9-11\SearchNames\obj\Debug\SearchNames.pdb
